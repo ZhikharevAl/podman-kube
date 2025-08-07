@@ -49,7 +49,7 @@ max-returns = 3
 max-statements = 50
 max-branches = 12
 
-# Конфигурация Pyright
+
 [tool.pyright]
 exclude = [".venv", "**/__pycache__"]
 pythonVersion = "3.13"
